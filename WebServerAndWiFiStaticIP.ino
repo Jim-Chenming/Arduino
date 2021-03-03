@@ -2,8 +2,8 @@
 #include <WiFiClient.h>
 #include <WebServer.h>
 
-#define MY_SSID         "CMCC-CJW"         //默认WIFI名称
-#define MY_SSID_PW      "CJW8888888812345678" //默认WIFI密码
+#define MY_SSID         "CMC"         //默认WIFI名称
+#define MY_SSID_PW      "CJW88rfessd" //默认WIFI密码
 const char* ssid = MY_SSID;
 const char* password = MY_SSID_PW;
 const int led = 4;
